@@ -1,0 +1,4 @@
+serverOne=10.0.0.5:4000
+serverTwo=10.0.0.5:5000
+serverThree=10.0.0.5:6000
+serverFour=10.0.0.5:7000
