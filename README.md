@@ -1,8 +1,8 @@
 ## Secure File Storage and Sync with Integrity and Authentication
 
-<img src="images/Screen Shot 2021-09-23 at 21.08.32.png">
-
 <img src="images/Screen Shot 2021-09-23 at 21.08.41.png">
+
+<img src="images/Screen Shot 2021-09-23 at 21.08.32.png">
 
 #### client.jar (in Client_Jar folder)
 
